@@ -12,18 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import <UIKit/UIKit.h>
+#import "MDCBasicFontScheme.h"
 
-#import "../MDCTextField.h"
-
-/**
-  Exposes parts of MDCTextField for testing.
- */
-@interface MDCTextField (Testing)
-
-/**
-  Synthesizes a touch on the clear button of the text field.
- */
-- (void)clearButtonDidTouch;
-
+@implementation MDCBasicFontScheme
 @end

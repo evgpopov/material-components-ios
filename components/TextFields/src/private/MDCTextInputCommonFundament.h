@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import "MDCButton.h"
-#import "MDCTextInput.h"
+#import "../MDCTextInput.h"
 
 extern const CGFloat MDCTextInputBorderRadius;
 extern const CGFloat MDCTextInputFullPadding;

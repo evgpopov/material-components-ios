@@ -13,7 +13,6 @@
 // limitations under the License.
 
 #import "UIColor+MaterialDynamic.h"
-
 #import "MaterialAvailability.h"
 
 @implementation UIColor (MaterialDynamic)

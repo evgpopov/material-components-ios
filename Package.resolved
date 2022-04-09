@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MDFInternationalization",
+        "repositoryURL": "https://github.com/evgpopov/material-internationalization-ios",
+        "state": {
+          "branch": null,
+          "revision": "d74658b351b995dbb57885090e87deae5b7ca47d",
+          "version": "3.0.1"
+        }
+      },
+      {
+        "package": "MDFTextAccessibility",
+        "repositoryURL": "https://github.com/evgpopov/material-text-accessibility-ios",
+        "state": {
+          "branch": null,
+          "revision": "5f83c99cd7f17fd39ba825a753c65b213e4fce37",
+          "version": "2.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

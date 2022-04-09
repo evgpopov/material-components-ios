@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialTypographyScheme+Scheming.h"
+#import "MaterialTypographySchemeScheming.h"
 
 /**
  An enum of default typography schemes that are supported.

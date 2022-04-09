@@ -13,15 +13,12 @@
 // limitations under the License.
 
 #import "MDCTextField.h"
-
-#import <MDFInternationalization/MDFInternationalization.h>
-
+#import "MDFInternationalization.h"
 #import "MDCTextFieldPositioningDelegate.h"
 #import "MDCTextInputBorderView.h"
 #import "MDCTextInputUnderlineView.h"
 #import "private/MDCTextField+Testing.h"
 #import "private/MDCTextInputCommonFundament.h"
-
 #import "MaterialMath.h"
 
 NSString *const MDCTextFieldTextDidSetTextNotification = @"MDCTextFieldTextDidSetTextNotification";

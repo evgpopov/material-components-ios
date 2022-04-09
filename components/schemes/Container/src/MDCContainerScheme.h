@@ -14,9 +14,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import <MaterialComponents/MaterialColorScheme.h>
-#import <MaterialComponents/MaterialShapeScheme.h>
-#import <MaterialComponents/MaterialTypographyScheme.h>
+#import "MaterialColorScheme.h"
+#import "MaterialShapeScheme.h"
+#import "MaterialTypographyScheme.h"
 
 /**
  A container scheme that exposes properties for all supported Material Theming subsystem schemes.

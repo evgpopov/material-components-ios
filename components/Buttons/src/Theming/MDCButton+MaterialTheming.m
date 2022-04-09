@@ -15,8 +15,8 @@
 #import "MDCButton+MaterialTheming.h"
 
 #import "MaterialButtons.h"
-#import <MaterialComponents/MaterialButtons+ShapeThemer.h>
-#import <MaterialComponents/MaterialShadowElevations.h>
+#import "MaterialButtons+ShapeThemer.h"
+#import "MaterialShadowElevations.h"
 #import "MaterialColorScheme.h"
 #import "MaterialContainerScheme.h"
 #import "MaterialTypographyScheme+Scheming.h"
